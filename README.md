@@ -27,3 +27,6 @@
 # Step 5:
 - Once done, Login to your Dashboard
 - Then go to "wp-content/themes" and change the theme's folder name with your Project's Name
+- Then open terminal
+- Run "npm install"
+- Run "npm run build"
