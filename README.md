@@ -7,11 +7,11 @@
 # Step 2:
 - Install Fresh Copy of WordPress
 - Install Updraft Plugin
-- In the "wp-config.php" file, define the WP_HOME and WP_SITEURL with the domain name
+- In the "wp-config.php" file, define the WP_HOME and WP_SITEURL with your local domain name
 
 # Step 3:
 - Create a Backup
-- Go to: Dashboard > Settings > UpdraftPlus Backups: http://localhost:8813/wp-admin/options-general.php?page=updraftplus&tab=backups
+- Go to: Dashboard > Settings > UpdraftPlus Backups: [localdomain]/wp-admin/options-general.php?page=updraftplus&tab=backups
 - Upload the Downloaded Files
 
 # Step 4:
@@ -30,3 +30,7 @@
 - Then open terminal
 - Run "npm install"
 - Run "npm run build"
+
+# NOTES
+- For additional guide, watch this loom video: https://www.loom.com/share/461e1f0336664555bed1f12832f2459c
+  
