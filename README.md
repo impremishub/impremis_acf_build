@@ -32,5 +32,5 @@
 - Run "npm run build"
 
 # NOTES
-- For additional guide, watch this loom video: https://www.loom.com/share/461e1f0336664555bed1f12832f2459c
+- For additional guide, watch this loom video: [https://www.loom.com/share/461e1f0336664555bed1f12832f2459c](https://www.loom.com/share/711fa57eef6343278c1a69e23a3fafc9)https://www.loom.com/share/711fa57eef6343278c1a69e23a3fafc9
   
